@@ -38,7 +38,13 @@ ETF: 'XLB', 'XLE', 'XLF', 'XLI', 'XLK', 'XLP', 'XLU', 'XLV', 'XLY'
 
 結果: 投資組合績效優於於SPY B&H 策略。
 
+### 輸出投組價值&期間資產配置權重變化
+
+![image](https://github.com/EricHsu10/US-ETF-Asset-Allocation-Research/assets/111495932/4775f79f-1c31-4571-884a-966c7eac47ce)
+
+
 ### To Do List
+
 1. 考慮其他方式資產配置，ex. 機器學習方法。
 2. 加入更多factor，ex. Fama-French三因子模型。
 
