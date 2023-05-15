@@ -15,7 +15,7 @@ ETF: 'XLB', 'XLE', 'XLF', 'XLI', 'XLK', 'XLP', 'XLU', 'XLV', 'XLY'
 
 ![image](https://github.com/EricHsu10/US-ETF-Asset-Allocation-Research/assets/111495932/baba8756-c752-4da0-b1fb-2d0af798edb8)
 
-投資組合績效並未優於SPY B&H 策略。
+結果: 投資組合績效並未優於SPY B&H 策略。
 
 ### 考慮以下兩種改進方式:
 1. 平均分配權重投資所有ETF。
