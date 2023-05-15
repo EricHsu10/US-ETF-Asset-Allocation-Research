@@ -7,10 +7,12 @@
 ETF: 'XLB', 'XLE', 'XLF', 'XLI', 'XLK', 'XLP', 'XLU', 'XLV', 'XLY'
 
 ### 先研究一下ETF 走勢:
+
 ![image](https://github.com/EricHsu10/US-ETF-Asset-Allocation-Research/assets/111495932/965a75dc-6698-45b1-bee2-6eb13f3de5ac)
 
 ### 嘗試Min Risk資產配置組合:
 考慮動能效應，以前三個月ETF平均月報酬做為未來一個月預期月報酬，並以Min Risk做為資產配置考量，建構投資組合。
+
 ![image](https://github.com/EricHsu10/US-ETF-Asset-Allocation-Research/assets/111495932/baba8756-c752-4da0-b1fb-2d0af798edb8)
 
 投資組合績效並未優於SPY B&H 策略。
@@ -23,6 +25,7 @@ ETF: 'XLB', 'XLE', 'XLF', 'XLI', 'XLK', 'XLP', 'XLU', 'XLV', 'XLY'
 
 ### 方法1: Equal Weight資產配置策略
 平均分配資金投入於所有ETF。
+
 ![image](https://github.com/EricHsu10/US-ETF-Asset-Allocation-Research/assets/111495932/ffa4ee69-9603-4ac7-95af-13962a9cfb93)
 
 結果: 投資組合績效優於於SPY B&H 策略。
