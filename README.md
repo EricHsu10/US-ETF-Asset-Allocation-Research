@@ -3,7 +3,7 @@
 ### 作者: Eric Hsu
 ### 日期: 2023.05.15
 
-### 考慮在以下幾檔ETF中做資產配置，並比較和S&P 500 ETF Buy and Hold
+### 考慮在以下幾檔ETF中做資產配置，並和S&P 500 ETF Buy and Hold比較
 ETF: 'XLB', 'XLE', 'XLF', 'XLI', 'XLK', 'XLP', 'XLU', 'XLV', 'XLY'
 
 ### 先研究一下ETF 走勢:
