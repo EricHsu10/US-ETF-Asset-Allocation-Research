@@ -46,5 +46,5 @@ ETF: 'XLB', 'XLE', 'XLF', 'XLI', 'XLK', 'XLP', 'XLU', 'XLV', 'XLY'
 ### To Do List
 
 1. 考慮其他方式資產配置，ex. 機器學習方法。
-2. 加入更多factor，ex. Fama-French三因子模型。
+2. 加入更多因子做考量。
 
